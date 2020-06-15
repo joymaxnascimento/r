@@ -1,2 +1,2 @@
-# r
+# R
 Projetos em R
