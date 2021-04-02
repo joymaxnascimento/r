@@ -1,2 +1,2 @@
-# r
-Projetos em R
+# R
+Projetos em R.
